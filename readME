@@ -1,0 +1,6 @@
+this case has 4 branches :
+main branch which carry the final releases of the software
+develop branch is the branch where all the feautures plus the original version  were merge before going live to main branch.
+featureA branch for the feauture A of the software
+featureB branch for the feaure B
+featureC branch is for the feauture C
